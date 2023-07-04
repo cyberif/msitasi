@@ -35,11 +35,11 @@ class _SiswaUpdateFormState extends State<SiswaUpdateForm> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Tambah Siswa"),
+        title: const Text("Edit Siswa"),
         backgroundColor: Colors.indigo,
       ),
       body: Container(
-        height: 310,
+        height: 330,
         width: double.maxFinite,
         margin: EdgeInsets.only(left: 20, top: 10, right: 20),
         padding: EdgeInsets.only(left: 20, right: 20, top: 20, bottom: 20),

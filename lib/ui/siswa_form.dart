@@ -25,7 +25,7 @@ class _SiswaFormState extends State<SiswaForm> {
       ),
       body: SingleChildScrollView(
         child: Container(
-          height: 310,
+          height: 330,
           width: double.maxFinite,
           margin: EdgeInsets.only(left: 20, top: 10, right: 20),
           padding: EdgeInsets.only(left: 20, right: 20, top: 20, bottom: 20),
